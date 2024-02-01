@@ -1,5 +1,7 @@
 ### Hi there 👋
+🌱 I’m currently learning Python 
 
+🔭 I’m currently working on Machine Learning and Data Analytics
 <!--
 **Yusufeel/Yusufeel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
