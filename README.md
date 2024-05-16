@@ -2,6 +2,9 @@
 🌱 I’m currently learning Python 
 
 🔭 I’m currently working on Machine Learning and Data Analytics
+
+LinkedIn:https://www.linkedin.com/in/yusuf-demirel-b18249256/
+
 <!--
 **Yusufeel/Yusufeel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
